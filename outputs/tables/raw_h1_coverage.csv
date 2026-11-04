@@ -1,0 +1,11 @@
+,observed_pct,interpolated_pct,outage_pct
+Aggregate,86.98,0.1,12.92
+Appliance1,86.53,0.3,13.16
+Appliance2,86.57,0.26,13.18
+Appliance3,86.82,0.1,13.08
+Appliance4,85.55,0.35,14.1
+Appliance5,85.89,0.39,13.72
+Appliance6,86.88,0.09,13.03
+Appliance7,86.98,0.1,12.93
+Appliance8,86.74,0.2,13.06
+Appliance9,63.21,0.11,36.68

@@ -1,0 +1,5 @@
+model,onoff_F1,cycle_F1,energy_err_pct,daily_energy_MAE_Wh,MAE_W,final
+lgbm,0.424,0.42,53.1,319.3,24.15,False
+lgbm_cycles,0.497,0.42,40.5,296.1,22.26,False
+two_stage,0.604,0.642,11.3,230.6,16.96,False
+two_stage_cycles,0.619,0.642,3.3,221.1,15.85,True
